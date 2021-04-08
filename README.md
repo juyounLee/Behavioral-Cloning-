@@ -88,4 +88,5 @@ At the end of the process, the vehicle can autonomously drive the track without 
 #### 2. Creation of the Training Set & Training Process
 
 All these data was shuffled randlomly and used for training the model with five epochs. The following picture shows the training:
+
 ![alt text][image2]
